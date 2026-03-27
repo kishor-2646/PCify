@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448602665004",
+    "project_id": "pcify-platform",
+    "storage_bucket": "pcify-platform.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448602665004:android:68adc24b8369f17bcae189",
+        "android_client_info": {
+          "package_name": "com.example.pcify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAuEGftWpJNQZlBacKIW82Za7RvfbBzt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
